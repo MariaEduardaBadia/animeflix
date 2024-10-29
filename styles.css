@@ -1,0 +1,41 @@
+body {
+   color:black;
+   background: orange;
+   margin: 0px;
+   font-family: "Roboto Mono", monospace;
+
+}
+
+header {
+   border-bottom: solid 2px red;
+   padding: 20px;
+   font-size: 32px;
+}
+
+section {
+   background: red;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   display: flex;
+   justify-content: center;
+
+}
+
+.chamada-texto {
+   margin-right: 5%px;
+}
+
+h1 {
+   font-size: 30px;
+}
+
+p {
+   font-size: 20px;
+}
+
+img {
+   height: 900px;
+}
+
+
+
